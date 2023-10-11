@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItsAvi165
+- 👋 Hi, I’m Avishkar Hongekar
 - 🌱 I’m currently pursuing PG-DAC @ ACTS (CDAC Pune)
 - 💞️Qualification : BE Computer Engineering Pimpri Chinchwad College of Engineering , Pune
 - 📫 Linkedin : https://www.linkedin.com/in/avishkar-hongekar-55a210191/
